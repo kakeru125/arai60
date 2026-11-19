@@ -7,3 +7,8 @@ mapの存在確認はokからより意図が伝わりやすいexistsにした。
 
 ## step3
 step2の方法で3回実装
+
+## step3.2
+PRを作成した後に見つけた他の方へのコメント
+https://github.com/officermushroom-dotcom/leetcode_practice/pull/1/changes#r4306518534
+確かにcomplementの方が意図がぶれにくい
