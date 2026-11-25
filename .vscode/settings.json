@@ -1,4 +1,5 @@
 {
+  "files.insertFinalNewline": true,
   "[cpp]": {
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "xaver.clang-format"
